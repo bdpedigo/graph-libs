@@ -8,6 +8,9 @@ Stashing graph libraries I come across (mostly just Python ones)
 ## Graph neural networks
 - [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery)
   - "GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs) and Graph Adversarial Learning with TensorFlow 2.x and PyTorch backend."
+- [cogdl](https://github.com/THUDM/cogdl)
+  - "CogDL is a graph representation learning toolkit that allows researchers and developers to easily train and compare baseline or custom models for node classification, link prediction and other tasks on graphs. It provides implementations of many popular models, including: non-GNN Baselines like Deepwalk, LINE, NetMF, GNN Baselines like GCN, GAT, GraphSAGE."
+
 
 ## Temporal
 - [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
