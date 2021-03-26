@@ -15,5 +15,13 @@ Stashing graph libraries I come across (mostly just Python ones)
 ## Temporal
 - [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 
+## Diffusion
+- [NDLib](https://github.com/GiulioRossetti/ndlib)
+   - "Network Diffusion Library - (for NetworkX and iGraph)" 
+
+## Community Detection
+- [CDLib](https://github.com/GiulioRossetti/cdlib)
+   - "Community Discovery Library - (for networkx and igraph)"
+
 ## Explanatory
 - [Network analysis made simple](https://github.com/ericmjl/Network-Analysis-Made-Simple)
