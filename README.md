@@ -4,6 +4,10 @@ Stashing graph libraries I come across (mostly just Python ones)
 ## Graph kernels/comparisons
 - [graphkit-learn](https://github.com/jajupmochi/graphkit-learn)
   - "A python package for graph kernels, graph edit distances, and graph pre-image problem."
+
+## Graph embeddings
+- [OpenNE](https://github.com/thunlp/OpenNE)
+  - "This repository provides a standard NE/NRL(Network Representation Learning）training and testing framework. In this framework, we unify the input and output interfaces of different NE models and provide scalable options for each model. Moreover, we implement typical NE models under this framework based on tensorflow, which enables these models to be trained with GPUs."
   
 ## Graph neural networks
 - [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery)
